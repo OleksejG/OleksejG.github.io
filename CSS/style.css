@@ -156,3 +156,20 @@ font-style: normal;
 letter-spacing: normal;
 line-height: normal;
 }
+.futerRight{
+	max-width: 60%;
+
+}
+.myFirstProgect{
+	display: flex;
+
+}
+.myWork{
+	width: 50%;
+	height: auto;
+
+}
+.myWorkImg{
+	width: 100%;
+	height: auto;
+}
