@@ -101,9 +101,8 @@ text-align: center;
 padding: 15px;
 }
 .bodyImg{
-	box-sizing: content-box;
 	width: 100%;
-	height: 40%;
+	height: auto;
 	background: url(../img/rome-sunset.jpg) no-repeat;
 	background-size: contain;
 	overflow: hidden;
@@ -111,8 +110,8 @@ padding: 15px;
 } 
 .bodyShadow{
 	width: 100%;
-	height: auto;
-
+	height: 100%;
+ 
 }
 .bodyButton{
 text-align: center;
