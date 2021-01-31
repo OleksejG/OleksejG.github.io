@@ -102,9 +102,9 @@ padding: 15px;
 }
 .bodyImg{
 	width: 100%;
-	height: auto;
+	height: 40%;
 	background: url(../img/rome-sunset.jpg) no-repeat;
-	background-size: contain;
+	background-size: cover;
 	overflow: hidden;
 
 } 
