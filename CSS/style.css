@@ -256,4 +256,27 @@ padding: 20px;
 		width: 100%;
 	}
 }
+.body__last__progect{
+	padding: 100px;
+text-align: center;
+color: #000000;
+font-family: "Helvetica Neue";
+font-size: 22px;
+font-style: normal;
+letter-spacing: normal;
+line-height: 22px;
+}
+.kontakt__body{
+	padding: 100px;
+text-align: center;
+color: #000000;
+font-family: "Helvetica Neue";
+font-size: 22px;
+font-style: normal;
+letter-spacing: normal;
+line-height: 22px;
+}
+
+
+
 
