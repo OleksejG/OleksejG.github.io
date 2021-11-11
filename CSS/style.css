@@ -113,8 +113,13 @@ border: 1px solid #cccccc ;
 	display: block;
 	position: absolute;
 margin:-5% 0 0 3%; 
-width: 10%;
+width: 7%;
 height: auto;
+border-radius: 10%;
+
+}
+.avatar:hover{
+	width: 20%;
 }
 .UserName{
 color: #000000;
@@ -149,6 +154,7 @@ padding: 20px;
 }
 .foterRight{
 	max-width: 60%;
+
 
 }
 .myFirstProgect{
