@@ -112,14 +112,14 @@ border: 1px solid #cccccc ;
 .avatar{
 	display: block;
 	position: absolute;
-margin:-5% 0 0 3%; 
-width: 7%;
+margin:-30% 0 0 3%; 
+width: 19%;
 height: auto;
 border-radius: 10%;
-
-}
+box-shadow: 10px 5px 5px black; }
 .avatar:hover{
-	width: 20%;
+	width: 40%;
+
 }
 .UserName{
 color: #000000;
@@ -150,6 +150,11 @@ font-family: "Helvetica CE";
 font-size: 16px;
 line-height: 22px;
 padding: 20px;
+
+}
+.AboutMe{
+	font-size: 20px;
+	margin-bottom: 20px;
 
 }
 .foterRight{
