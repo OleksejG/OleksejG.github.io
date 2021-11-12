@@ -118,7 +118,9 @@ height: auto;
 border-radius: 10%;
 box-shadow: 10px 5px 5px black; }
 .avatar:hover{
-	width: 40%;
+	width: 29%;
+	margin:-30% 0 0 10%; 
+
 
 }
 .UserName{
