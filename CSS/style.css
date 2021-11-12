@@ -266,6 +266,12 @@ border: 1px solid #cccccc ;
 	.heder__menu li{
 		padding: 20px;
 	}
+	.avatar:hover{
+	width: 59%;
+	margin:-30% 0 0 10%; 
+
+
+}
 	.Body{
 		display: block;
 	}
