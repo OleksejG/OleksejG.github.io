@@ -148,6 +148,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:400;}
 		position: fixed;
 		height: 50px;
 		z-index: 7;}
+		.avatar.FullScreen{
+			margin:-50% 0 0 30%; 
+			width:40%;}
 	.heder__burger{
 		display:block;
 		position:relative;
